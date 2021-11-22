@@ -1,0 +1,29 @@
+Hewlett Packard Enterprise Releases New 12th Generation ProLiant servers, featuring up to 12TB of DDR5 memory and 368TB of SAS Solid State Drive Storage.
+
+Hewlett Packard Enterprise (HPE) announced Wednesday its next-generation server, featuring new Intel® Xeon® processors, The greatest products for its ProLiant lineup are updated to increase connectivity options.
+The new series of servers are part of a multimillion-dollar partnership with Intel that helps to meet evolving customer demand for high-performance computing.
+
+This new generation of Intel Xeon processor, which is available in the new ProLiant servers, features ultra high-bandwidth storage and networking, allowing customers to build the most powerful server platforms, while maintaining a performance-per-watt advantage, according to the company.
+
+The 12th generation server also supports NVIDIA Ampere® GPUs, which is expected to provide up to 50% better performance than previous generation and support some of the world's most demanding workloads including high performance data center applications.
+
+"Customers want to use the latest technology in their infrastructure to maximize the value of their IT investments," said N. Robert Hammer, chairman and chief executive officer at Hewlett Packard Enterprise. "ProLiant has always delivered performance, power and density to our customers, and we continue to build on that legacy with new Intel Xeon processors."
+
+As part of this partnership, HPE is collaborating with Intel to combine its own technology with Intel's products to provide customers with the most powerful, secure, manageable, efficient and cost-effective server platforms.
+
+Under this collaboration, the companies are working together on four projects to deliver optimized server performance and capabilities.
+
+They include performance management and monitoring; security technology; high-capacity storage and networking, and advanced security.
+
+[Workers put the finishing touches on a Hewlett Packard ProLiant Gen12 (code name "Han"), a 22U rack server with 19 blades, in the lab of a HPE office at the company's Renton, Washington, campus in August. (David Ryder/Reuters)]
+
+In the area of security, HPE is working with Intel and five of the world's top banks and payment card networks to combine HPE hardware and Intel software to provide security to manage attacks across the network and to provide actionable insights to reduce the risk of data breaches.
+
+Among the security features that will be available with the new servers is Intel's Flash Secure Technology, a new security approach that offers secure isolation of memory from the host operating system and also adds a cryptographic layer for isolation of the storage system.
+
+"As we transform to a world of AI, cyber security is critical to any enterprise's digital transformation," said Bob Doyle, general manager of Intel's non-volatile memory solutions group. "This collaboration with HPE and its leading line of ProLiant servers provides customers with advanced security capabilities to meet their security challenges today and in the future."
+
+The new Intel Xeon processors are available for HPE's current ProLiant Gen11 server portfolio and are also a continuation of HPE's commitment to innovative server upgradability platform.
+
+A Current-Generation ProLiant Gen11 server with Intel Xeon processors can be configured with up to 3TB of memory, all-flash storage and graphics processing units, or have up to eight storage blades with up to 960TB of total storage capacity and 1.5TB of memory.
+
